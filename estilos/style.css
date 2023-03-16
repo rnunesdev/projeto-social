@@ -28,7 +28,7 @@ section#telefone {
     height: 627px;
     width: 311px;
     top: 50%;
-    left: 45%;
+    left: 40%;
     transform: translate(-50%, -50%);
     background: url('../imagens/frame-iphone.png') no-repeat;
 }
